@@ -1,1 +1,1 @@
-
+The package timedomain allow to read localization data from RTLS UWB System produced by Sewio. The rtls_sewio node, implemented in the rtls_sewio.py script, will read from socket only valid localization data referred to the tag. The data are converted in the PoseWithCovariance format and published in the pose_rtls topic.
