@@ -1,1 +1,1 @@
-
+The package timedomain allow to read localization data from RTLS UWB System produced by Humatics. The timedomain_tag.launch file will start an ethernet connection with the mobile tag placed onboard the vehicle and read from socket only valid localization data referred to the tag (#103). The data are converted in the PoseWithCovariance format and published in the pose_rtls topic. 
