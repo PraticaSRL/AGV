@@ -1,0 +1,6 @@
+﻿  OpenCV_SURF_2.cpp
+c:\users\domenico\desktop\progetti visual studio\opencv_surf_2\opencv_surf_2\opencv_surf_2\opencv_surf_2.cpp(132): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\domenico\desktop\progetti visual studio\opencv_surf_2\opencv_surf_2\opencv_surf_2\opencv_surf_2.cpp(133): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\domenico\desktop\progetti visual studio\opencv_surf_2\opencv_surf_2\opencv_surf_2\opencv_surf_2.cpp(134): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\domenico\desktop\progetti visual studio\opencv_surf_2\opencv_surf_2\opencv_surf_2\opencv_surf_2.cpp(135): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+  OpenCV_SURF_2.vcxproj -> C:\Users\Domenico\Desktop\Progetti Visual Studio\OpenCV_SURF_2\OpenCV_SURF_2\x64\Debug\OpenCV_SURF_2.exe
