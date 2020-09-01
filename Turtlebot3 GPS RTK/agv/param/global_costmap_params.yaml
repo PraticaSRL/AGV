@@ -1,0 +1,19 @@
+####################################################################################################  
+#   PRATICA SRL – www.praticasrl.com                                                                    
+#   Progetto: AGV - Veicolo a guida automatica per movimentazione pallet                                
+#   Progetto cofinanziato dal Fondo POR FESR 14/20 Calabria                                             
+#   Autori:                                                                                             
+#   Duardo Domenico                                                                                     
+#   Chilà Antonino                                                                                      
+#   Scimonelli Mattia                                                                                   
+#################################################################################################### 
+global_costmap:
+  global_frame: map
+  robot_base_frame: base_footprint
+
+  update_frequency: 2.0 #Default 10.0
+  publish_frequency: 0.1 #Default 10.0
+  transform_tolerance: 0.5
+
+  static_map: true
+ 
