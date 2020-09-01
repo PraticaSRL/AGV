@@ -15,5 +15,5 @@ E' sopra riportato un esempio applicativo di un AGV per la movimentazione pallet
 
 
 # FLOW CHART OPERATIVO
-![alt text](https://imgur.com/x3d0QaP.png)
+![alt text](https://imgur.com/x3d0QaP.png)  
 Diagramma di flusso del funzionamento di base del sistema AGV per movimentazione pallet. 
