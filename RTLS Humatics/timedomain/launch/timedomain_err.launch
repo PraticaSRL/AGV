@@ -1,0 +1,10 @@
+<launch>
+
+
+  <node pkg="timedomain" type="timedomain_err" name="timedomain_err" output="screen">
+    <param name="ip" value="10.55.5.203"/>
+  </node>
+
+  <node name="output_topic1" pkg="rostopic" type="rostopic" output="screen" args="echo /pose_rtls"/>
+
+</launch>

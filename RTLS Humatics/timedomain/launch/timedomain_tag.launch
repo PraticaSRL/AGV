@@ -1,0 +1,9 @@
+<launch>
+
+
+  <node pkg="timedomain" type="timedomain_tag" name="timedomain_tag" output="screen">
+    <param name="ip" value="192.168.131.51"/>
+  </node>
+
+
+</launch>

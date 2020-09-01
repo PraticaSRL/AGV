@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>timedomain</name>
+  <version>1.0.0</version>
+  <description>
+    Progetto AGV Calabria
+	Turtlebot - Boxer
+	RTLS - RTK GPS - CAMERA
+  </description>
+  <license>Apache 2.0</license>
+  <author email="antonino.chila@praticasrl.com">Antonino Chilà</author>
+  <author email="domenico.duardo@praticasrl.com">Domenico Duardo</author>
+  <author email="mattia.scimonelli@praticasrl.com">Mattia Scimonelli</author>
+  <maintainer email="mattia.scimonelli@praticasrl.com">Mattia Scimonelli</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>nav_msgs</depend>
+  <depend>tf</depend>
+</package>
