@@ -2,5 +2,5 @@ The Turtlebot3-based prototype has been equipped with a Real Time Kinematics GPS
 
 agv.launch provides:
 1) initialize and start the navigation system;
-2) start the nodes for reading GPS RTK data from usb and convert them in the PoseWithCovarianceStamped format;
+2) start the nodes for reading GPS RTK data from usb and convert them in the PoseWithCovarianceStamped format, and publish in the pose_gps topic;
 3) start the rviz visualization tool and the necessary markers
